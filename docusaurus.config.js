@@ -27,6 +27,7 @@ const config = {
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+  scripts: [{src: 'https://plausible.haoran.cv/js/script.js', async: true, defer: true, 'data-domain': 'inzoiguide.com'}],
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
