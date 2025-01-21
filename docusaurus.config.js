@@ -15,7 +15,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://inzoiguide.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -51,7 +51,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/namnguyenthanhwork/docusaurus-tailwind-shadcn-template/tree/main'
+            'https://github.com/hr98w/inzoi-guide/tree/main'
         },
         blog: false,
         theme: {
@@ -214,7 +214,7 @@ const config = {
         onUntruncatedBlogPosts: 'ignore',
         // Remove this to remove the "edit this page" links.
         editUrl:
-          'https://github.com/namnguyenthanhwork/docusaurus-tailwind-shadcn-template/tree/main/',
+          'https://github.com/hr98w/inzoi-guide/tree/main/',
         remarkPlugins: [[require('@docusaurus/remark-plugin-npm2yarn'), { sync: true }]]
       }
     ]

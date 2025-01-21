@@ -20,8 +20,8 @@ inZOI Guide aims to provide:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/namnguyenthanhwork/docusaurus-tailwind-shadcn-template.git
-cd docusaurus-tailwind-shadcn-template
+git clone https://github.com/hr98w/inzoi-guide.git
+cd inzoi-guide
 ```
 
 2. Install dependencies:
@@ -45,7 +45,7 @@ npm run build
 ## Project Structure
 
 ```
-docusaurus-tailwind-shadcn-template/
+inzoi-guide/
 ├── blog/
 ├── docs/
 ├── src/

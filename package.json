@@ -1,15 +1,15 @@
 {
-  "name": "docusaurus-tailwind-shadcn-template",
+  "name": "inzoi-guide",
   "description": "Intergrating Tailwind CSS and Shadcn/ui with Docusaurus website template",
   "author": "Thành Nam Nguyễn",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/namnguyenthanhwork/docusaurus-tailwind-shadcn-template.git"
+    "url": "git+https://github.com/hr98w/inzoi-guide.git"
   },
   "bugs": {
-    "url": "https://github.com/namnguyenthanhwork/docusaurus-tailwind-shadcn-template/issues"
+    "url": "https://github.com/hr98w/inzoi-guide/issues"
   },
-  "homepage": "https://github.com/namnguyenthanhwork/docusaurus-tailwind-shadcn-template#readme",
+  "homepage": "https://github.com/hr98w/inzoi-guide#readme",
   "version": "1.0.0",
   "private": true,
   "scripts": {
