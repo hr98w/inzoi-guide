@@ -1,0 +1,9 @@
+news:
+  label: 'News'
+  permalink: '/news'
+  description: 'News about inZOI'
+
+download:
+  label: 'Download'
+  permalink: '/download'
+  description: 'Download inZOI Infomation'
