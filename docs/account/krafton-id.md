@@ -8,6 +8,9 @@ sidebar_position: 1
 
 KRAFTON ID is your universal gateway to all KRAFTON games and services. It's managed through our central hub at [accounts.krafton.com](https://accounts.krafton.com), where you can access all account-related services and features.
 
+## Is KRAFTON ID Needed for inZOI?
+Yes. You need to register KRAFTON ID to play inZOI.
+
 ## Key Features
 
 ### Platform Integration
