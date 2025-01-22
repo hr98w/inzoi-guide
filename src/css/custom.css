@@ -181,6 +181,15 @@ kbd {
   }
 }
 
+.markdown h1 {
+  font-size: 2.2rem !important; /* 36px */
+  font-weight: 800 !important;
+  margin-top: 1rem !important;
+  margin-bottom: 1.5rem !important;
+  /* border-bottom: 3px solid var(--ifm-color-primary-lighter); */
+  padding-bottom: 0.75rem;
+}
+
 .markdown h2 {
   font-size: 1.875rem !important; /* 30px */
   font-weight: 700 !important;
@@ -191,6 +200,13 @@ kbd {
 }
 
 .markdown h3 {
+  font-size: 1.5rem !important; /* 24px */
+  font-weight: 600 !important;
+  margin-top: 2rem !important;
+  margin-bottom: 1rem !important;
+}
+
+.markdown h4 {
   font-size: 1.5rem !important; /* 24px */
   font-weight: 600 !important;
   margin-top: 2rem !important;
