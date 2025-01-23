@@ -81,6 +81,12 @@ const config = {
             label: 'Guide'
           },
           { to: '/blog', label: 'Blog', position: 'left' },
+          { to: 'https://playinzoi.com', 
+            label: 'inZOI Official Website', 
+            position: 'right',
+            className: 'navbar-external-link'
+          },
+
           // {
           //   'href': 'https://github.com/namnguyenthanhwork/docusaurus-tailwind-shadcn-template',
           //   'position': 'right',
@@ -100,15 +106,20 @@ const config = {
                 to: '/docs/intro'
               },
               {
-                label: 'Release Data',
+                label: "inZOI download",
+                to: 'docs/category/download-faqs'
+              },
+              {
+                label: 'inZOI release date',
                 to: '/blog/inzoi-release-date'
               },
               {
-                label: 'System Requirements',
+                label: 'inZOI system requirements',
                 to: '/blog/inzoi-system-requirements'
               }
             ]
           },
+
           // {
           //   title: 'Community',
           //   items: [

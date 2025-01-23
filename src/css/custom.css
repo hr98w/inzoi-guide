@@ -252,3 +252,7 @@ kbd {
   border-bottom-color: var(--ifm-color-primary);
   opacity: 0.8;
 }
+
+.navbar-external-link {
+  font-size: 0.9rem;
+}
