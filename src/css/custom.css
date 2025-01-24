@@ -239,6 +239,30 @@ kbd {
   border-radius: 50%;
 }
 
+.markdown ol {
+  counter-reset: item;
+  padding-left: 1rem;
+}
+
+.markdown ol li {
+  font-size: 1rem !important;
+  line-height: 1.75 !important;
+  margin-bottom: 0.5rem !important;
+  position: relative;
+  padding-left: 1.5rem;
+  list-style-type: none;
+  counter-increment: item;
+}
+
+.markdown ol li::before {
+  content: counter(item) ".";
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-weight: 500;
+  color: var(--ifm-color-primary);
+}
+
 .markdown a {
   color: var(--ifm-color-primary);
   text-decoration: none;
