@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ## Steam Platform
 
-inZOI has not been officially released yet. The game is scheduled to launch on Steam on [March 28, 2025](/blog/2025-01-21-release-date/). You can follow the game through these steps:
+inZOI has not been officially released yet. The game is scheduled to launch on Steam on [March 28, 2025](/blog/inzoi-release-date). You can follow the game through these steps:
 
 1. Visit the [Steam Store Page](https://store.steampowered.com/app/2456740/inZOI/)
 2. Click "Add to Wishlist" to receive notifications when the game launches

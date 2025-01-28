@@ -1,9 +1,49 @@
 news:
   label: 'News'
   permalink: '/news'
-  description: 'News about inZOI'
+  description: 'Latest news and announcements about inZOI'
 
-download:
+Release Date:
+  label: 'Release Date'
+  permalink: '/release-date'
+  description: 'Information about game release dates and schedules'
+
+Download:
   label: 'Download'
   permalink: '/download'
-  description: 'Download inZOI Infomation'
+  description: 'Game download and installation information'
+
+Sysetm Requirement:
+  label: 'System Requirements'
+  permalink: '/system-requirements'
+  description: 'Hardware and software requirements for playing inZOI'
+
+Platfrom:
+  label: 'Platform'
+  permalink: '/platform'
+  description: 'Information about supported gaming platforms'
+
+Console:
+  label: 'Console'
+  permalink: '/console'
+  description: 'Console version details and updates'
+
+PlayStation 5:
+  label: 'PlayStation 5'
+  permalink: '/ps5'
+  description: 'PlayStation 5 version information'
+
+Xbox Series X|S:
+  label: 'Xbox Series X|S'
+  permalink: '/xbox'
+  description: 'Xbox Series X|S version information'
+
+Early Access:
+  label: 'Early Access'
+  permalink: '/early-access'
+  description: 'Early Access version details and features'
+
+Cooking:
+  label: 'Cooking'
+  permalink: '/cooking'
+  description: 'Updates and information about the cooking system'
