@@ -47,3 +47,13 @@ Cooking:
   label: 'Cooking'
   permalink: '/cooking'
   description: 'Updates and information about the cooking system'
+
+Canvas:
+  label: 'Canvas'
+  permalink: '/canvas'
+  description: 'Blogs About inZOI Canvas'
+
+Gameplay:
+  label: 'Gameplay'
+  permalink: '/gameplay'
+  description: 'Blogs About inZOI Gameplay'
