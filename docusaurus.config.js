@@ -107,7 +107,7 @@ const config = {
               },
               {
                 label: "inZOI download",
-                to: 'docs/category/download-faqs'
+                to: 'docs/get-start/download'
               },
               {
                 label: 'inZOI release date',
@@ -141,7 +141,7 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
+                label: 'Blogs',
                 to: '/blog'
               },
               // {

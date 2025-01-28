@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Gameplay
+# inZOI Gameplay
 
 ## Core Gameplay Overview
 
