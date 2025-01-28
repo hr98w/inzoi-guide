@@ -4,6 +4,7 @@ import Link from '@docusaurus/Link'
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext'
 
 import HomepageFeatures from './Features'
+import Countdown from './Countdown'
 import LatestNews from '../LatestNews'
 
 import { Button } from '../ui/button'
@@ -55,6 +56,7 @@ export default function Home({ homePageBlogMetadata, recentPosts }) {
       <HomepageHeader />
       <main>
         {/* <HomepageFeatures /> */}
+        <Countdown />
         <LatestNews recentPosts={recentPosts} homePageBlogMetadata={homePageBlogMetadata} />
       </main>
     </Layout>
