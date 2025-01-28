@@ -144,6 +144,10 @@ const config = {
                 label: 'Blogs',
                 to: '/blog'
               },
+              {
+                label: 'inZOI Reddit',
+                to: 'https://www.reddit.com/r/inZOI/'
+              },
               // {
               //   label: 'GitHub',
               //   href: 'https://github.com/facebook/docusaurus'
