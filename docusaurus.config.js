@@ -66,7 +66,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/og.webp',
       navbar: {
         title: 'inZOI Guide',
         logo: {
@@ -147,6 +147,10 @@ const config = {
               {
                 label: 'inZOI Reddit',
                 to: 'https://www.reddit.com/r/inZOI/'
+              },
+              {
+                label: 'inZOI Discord',
+                to: 'https://discord.com/invite/inzoi'
               },
               // {
               //   label: 'GitHub',
