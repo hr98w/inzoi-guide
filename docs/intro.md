@@ -33,19 +33,19 @@ We believe in the power of community collaboration. This guide is open source an
 
 ### How to Contribute
 
-1. **Share Your Knowledge**
+**Share Your Knowledge**
    - Write guides and tutorials
    - Document game mechanics
    - Share tips and strategies
    - Report bugs and solutions
 
-2. **Improve the Guide**
+**Improve the Guide**
    - Fix typos and errors
    - Update outdated information
    - Translate content
    - Enhance documentation
 
-3. **Join the Community**
+**Join the Community**
    - Participate in discussions
    - Help other players
    - Suggest improvements
