@@ -141,8 +141,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blogs',
-                to: '/blog'
+                label: 'inZOI Steam',
+                to: 'https://store.steampowered.com/app/2456740/inZOI/'
               },
               {
                 label: 'inZOI Reddit',
@@ -159,7 +159,7 @@ const config = {
             ]
           }
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} inZOI Guide`
+        copyright: `Copyright © ${new Date().getFullYear()} inZOI Guide, it is not affiliated with Krafton`
       },
       prism: {
         theme: prismThemes.github,
