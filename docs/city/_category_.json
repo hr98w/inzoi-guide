@@ -1,0 +1,8 @@
+{
+  "label": "Cities",
+  "position": 8000,
+  "link": {
+    "type": "generated-index",
+    "description": "There are three cities to choose from when playing inZOI: Dowon, Bliss Bay and Kucingku."
+  }
+}
