@@ -110,8 +110,8 @@ const config = {
                 to: 'docs/get-start/download'
               },
               {
-                label: 'inZOI release date',
-                to: '/blog/inzoi-release-date'
+                label: 'inZOI ambitions',
+                to: 'docs/category/ambitions'
               },
               {
                 label: 'inZOI system requirements',

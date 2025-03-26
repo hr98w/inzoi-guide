@@ -51,7 +51,7 @@ export default function Home({ homePageBlogMetadata, recentPosts }) {
   return (
     <Layout
       title={`Your Ultimate Resource for inZOI Gaming`}
-      description='Discover comprehensive guides, mods, tutorials, and resources for inZOI. Join our community for the latest tips, strategies, and custom content.'
+      description='Discover comprehensive guides, mods, tutorials, and resources for inZOI: Creative Studio. Join our community for the latest tips, strategies.'
     >
       <HomepageHeader />
       <main>
