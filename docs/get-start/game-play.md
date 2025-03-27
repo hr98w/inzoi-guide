@@ -3,6 +3,7 @@ sidebar_position: 1
 ---
 
 # inZOI Gameplay
+Welcome to inZOI, where you'll step into the role of an intern at AR COMPANY, managing a vibrant community of virtual beings called "Zois".
 
 ## Core Gameplay Overview
 
