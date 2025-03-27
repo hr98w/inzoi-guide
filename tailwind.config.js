@@ -1,4 +1,3 @@
-/** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
     './src/**/*.{js,jsx,ts,tsx}',
@@ -47,6 +46,29 @@ module.exports = {
         lg: `var(--radius)`,
         md: `calc(var(--radius) - 2px)`,
         sm: 'calc(var(--radius) - 4px)'
+      },
+      keyframes: {
+        firework: {
+          '0%': { 
+            transform: 'translate(-50%, 0) scale(0)',
+            opacity: 1,
+            backgroundColor: '#38bdf8'
+          },
+          '50%': { 
+            transform: 'translate(-50%, -50px) scale(1)',
+            opacity: 0.5,
+            backgroundColor: '#f472b6'
+          },
+          '100%': { 
+            transform: 'translate(-50%, -100px) scale(0)',
+            opacity: 0,
+            backgroundColor: '#4ade80'
+          }
+        }
+      },
+      animation: {
+        'firework': 'firework 0.6s ease-out forwards',
+        'firework-delay': 'firework 0.6s ease-out 0.2s forwards'
       }
     }
   },

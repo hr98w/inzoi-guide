@@ -27,26 +27,34 @@ function Countdown() {
   }, [])
 
   return (
-    <div className="flex flex-col items-center justify-center space-y-4 mb-8 bg-sky-100 p-6 rounded-lg">
+    <div className="relative flex flex-col items-center justify-center space-y-4 mb-8 bg-sky-100 p-6 rounded-lg">
       <h2 className="text-2xl font-bold text-sky-700 drop-shadow-lg">
         inZOI Release Countdown
       </h2>
       <div className="flex space-x-4">
-        <div className="flex flex-col items-center bg-sky-500 p-3 rounded-lg">
+        <div className="group relative flex flex-col items-center bg-sky-500 p-3 rounded-lg transition-transform hover:scale-105">
           <span className="text-3xl font-bold text-white">{timeLeft.days}</span>
           <span className="text-sm text-sky-100">Days</span>
+          <div className="firework absolute -top-10 left-1/2 opacity-0 group-hover:animate-firework" />
+          <div className="firework absolute -top-8 left-1/4 opacity-0 group-hover:animate-firework-delay" />
         </div>
-        <div className="flex flex-col items-center bg-sky-500 p-3 rounded-lg">
+        <div className="group relative flex flex-col items-center bg-sky-500 p-3 rounded-lg transition-transform hover:scale-105">
           <span className="text-3xl font-bold text-white">{timeLeft.hours}</span>
           <span className="text-sm text-sky-100">Hours</span>
+          <div className="firework absolute -top-10 left-1/2 opacity-0 group-hover:animate-firework" />
+          <div className="firework absolute -top-8 left-1/4 opacity-0 group-hover:animate-firework-delay" />
         </div>
-        <div className="flex flex-col items-center bg-sky-500 p-3 rounded-lg">
+        <div className="group relative flex flex-col items-center bg-sky-500 p-3 rounded-lg transition-transform hover:scale-105">
           <span className="text-3xl font-bold text-white">{timeLeft.minutes}</span>
           <span className="text-sm text-sky-100">Minutes</span>
+          <div className="firework absolute -top-10 left-1/2 opacity-0 group-hover:animate-firework" />
+          <div className="firework absolute -top-8 left-1/4 opacity-0 group-hover:animate-firework-delay" />
         </div>
-        <div className="flex flex-col items-center bg-sky-500 p-3 rounded-lg">
+        <div className="group relative flex flex-col items-center bg-sky-500 p-3 rounded-lg transition-transform hover:scale-105">
           <span className="text-3xl font-bold text-white">{timeLeft.seconds}</span>
           <span className="text-sm text-sky-100">Seconds</span>
+          <div className="firework absolute -top-10 left-1/2 opacity-0 group-hover:animate-firework" />
+          <div className="firework absolute -top-8 left-1/4 opacity-0 group-hover:animate-firework-delay" />
         </div>
       </div>
     </div>
