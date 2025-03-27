@@ -6,7 +6,7 @@ sidebar_position: 0
 
 inZOI, a life simulation game with realistic graphics and a rich, diverse world, captivates players . The core of the game lies in creating and experiencing different life stories, set in parallel universe cities inspired by real-world locations . Currently, the game offers two main cities for players to explore, with more exciting locations planned for the future. Let's embark on a journey to preview these three fascinating cities: the vibrant Dowon, the sunny Bliss Bay, and the upcoming feline paradise, Kucingku. Each city boasts unique charm and characteristics, waiting for players to discover and experience.   
 
-| Feature        | [Dowon](dowon)                                         | [Bliss Bay](bliss_bay)                                         | [Kucingku](kucingku)                     |
+| Feature        | [Dowon](/docs/city/dowon)                                         | [Bliss Bay](/docs/city/bliss_bay)                                         | [Kucingku](/docs/city/kucingku)                     |
 |---------------|------------------------------------------------|--------------------------------------------------|-------------------------------------------|
 | Inspiration   | Korea                                          | American Coastal Cities (Santa Monica/Los Angeles) | Indonesia/Southeast Asia                   |
 | Theme         | Blend of tradition and modernity, K-pop culture | Coastal charm, American lifestyle                 | Tropical paradise, cat-friendly            |
