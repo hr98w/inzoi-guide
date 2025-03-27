@@ -55,7 +55,7 @@ export default function Home({ homePageBlogMetadata, recentPosts }) {
     >
       <HomepageHeader />
       <main>
-        <Countdown />
+        {/* <Countdown /> */}
         <HomepageFeatures />
         <LatestNews recentPosts={recentPosts} homePageBlogMetadata={homePageBlogMetadata} />
       </main>
