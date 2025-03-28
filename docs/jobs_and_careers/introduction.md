@@ -14,7 +14,8 @@ To begin your career journey in inZOI, follow these steps in your Zoi's smartpho
 1. Launch the smartphone application by selecting your Zoi's phone
 2. Locate and tap the purple Job Portal icon in the main menu
 3. Explore the comprehensive job listings while reviewing position requirements and qualification criteria for career advancement opportunities
-
+![job1](/doc/job/job1.webp)
+![job2](/doc/job/job2.webp)
 ## Career Opportunities by City
 
 ### [Dowon](/docs/jobs_and_careers/dowon-jobs)
@@ -31,7 +32,7 @@ The coastal city provides unique professional opportunities:
 - Furniture Store Employee
 - Surf Shop Worker
 - Fast Food Restaurant Employee
-
+![job3](/doc/job/job3.webp)
 ## Unique Work System
 
 inZOI revolutionizes the virtual work experience through:
