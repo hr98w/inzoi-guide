@@ -3,6 +3,14 @@ import Layout from '@theme/Layout';
 
 const ModList = [
   {
+    title: 'Nexus Mods',
+    author: '',
+    category: 'Collections',
+    description: 'Large amount of inZOI mod collections',
+    link: 'https://www.nexusmods.com/games/inzoi',
+    isHighlight: true
+  },
+  {
     title: 'InZOI Mod Enabler',
     author: 'FrancisLouis',
     category: 'General',
@@ -48,13 +56,13 @@ const ModList = [
     title: 'Fast Launch (Skip Startup - Intro Videos)',
     author: 'instanity',
     category: 'General',
-    description: 'SMakes the game launch faster by automatically skipping startup video, as well as making the New Game starting much faster by automatically skipping Intro videos of New Game',
+    description: 'Makes the game launch faster by automatically skipping startup video.',
     link: 'https://www.nexusmods.com/inzoi/mods/9',
   },
 
 ];
 
-function ModCard({ title, author, category, description, link }) {
+function ModCard({ title, author, category, description, link, isHighlight }) {
   return (
     <a 
       href={link}
@@ -62,14 +70,20 @@ function ModCard({ title, author, category, description, link }) {
       rel="noopener noreferrer"
       className="no-underline h-full block"
     >
-      <div className="h-full p-6 border rounded-xl hover:shadow-lg transition-all duration-300 flex flex-col">
+      <div className={`h-full p-6 border rounded-xl hover:shadow-lg transition-all duration-300 flex flex-col
+        ${isHighlight ? 'bg-orange-50 border-orange-200' : ''}`}>
         <div className="flex justify-between items-start mb-4">
-          <h3 className="text-xl font-bold text-sky-900">{title}</h3>
-          <span className="px-3 py-1 bg-sky-100 text-sky-800 rounded-full text-sm">
+          <h3 className={`text-xl font-bold ${isHighlight ? 'text-orange-900' : 'text-sky-900'}`}>
+            {title}
+          </h3>
+          <span className={`px-3 py-1 rounded-full text-sm
+            ${isHighlight ? 'bg-orange-100 text-orange-800' : 'bg-sky-100 text-sky-800'}`}>
             {category}
           </span>
         </div>
-        <p className="text-gray-600 mb-4 flex-grow">{description}</p>
+        <p className={`mb-4 flex-grow ${isHighlight ? 'text-orange-600' : 'text-gray-600'}`}>
+          {description}
+        </p>
         <div className="flex justify-between items-center text-sm text-gray-500">
           {/* <span>Author: {author}</span> */}
         </div>
