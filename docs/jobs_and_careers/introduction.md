@@ -8,9 +8,16 @@ The career system in inZOI offers an immersive and dynamic approach to professio
 
 Unlike traditional games, inZOI features an active workplace environment where players directly control their Zois during working hours, creating authentic career experiences and meaningful professional relationships.
 
+## How to Get a Job
+To begin your career journey in inZOI, follow these steps in your Zoi's smartphone interface:
+
+1. Launch the smartphone application by selecting your Zoi's phone
+2. Locate and tap the purple Job Portal icon in the main menu
+3. Explore the comprehensive job listings while reviewing position requirements and qualification criteria for career advancement opportunities
+
 ## Career Opportunities by City
 
-### Dowon
+### [Dowon](/docs/jobs_and_careers/dowon-jobs)
 The Korean-inspired metropolis offers diverse career paths:
 - Firefighter
 - K-Pop Trainee
@@ -18,7 +25,7 @@ The Korean-inspired metropolis offers diverse career paths:
 - Convenience Store Worker
 - Deli Worker
 
-### Bliss Bay
+### [Bliss Bay](/docs/jobs_and_careers/bliss-bay-jobs)
 The coastal city provides unique professional opportunities:
 - Amusement Park Worker
 - Furniture Store Employee

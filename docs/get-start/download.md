@@ -7,14 +7,11 @@ You can download inZOI: Creative Studio from steam platform. The price for it is
 
 ## Steam Platform
 
-The game is scheduled to launch on Steam on [March 28, 2025](/blog/inzoi-release-date). You can follow the game through these steps:
-
-1. Visit the [Steam Store Page](https://store.steampowered.com/app/2456740/inZOI/)
-2. Click "Add to Wishlist" to receive notifications when the game launches
+The game is launch on Steam on [March 28, 2025](/blog/inzoi-release-date). You can purchae and download the game by visiting the [Steam Store Page](https://store.steampowered.com/app/2456740/inZOI/)
 
 ## inZOI Price
 
-The monetization model is currently undecided, including plans for expansion packs and DLCs.
+The price for inZOI: Creative Studio is $40.
 
 ## System Requirements
 

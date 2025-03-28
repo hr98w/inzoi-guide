@@ -25,13 +25,13 @@ const FeatureList = [
     title: 'Jobs & Careers',
     Svg: require('@site/static/img/svg/bag.svg').default,
     description: 'Detailed information about available jobs, career paths and progression systems',
-    link: '/docs/category/jobs-and-careers'
+    link: '/docs/jobs_and_careers/introduction'
   },
   {
     title: 'Cities',
     Svg: require('@site/static/img/svg/building.svg').default,
     description: 'Explore the unique features and opportunities in Dowon, Bliss Bay and Kucingku',
-    link: '/docs/category/cities'
+    link: '/docs/city'
   },
   {
     title: 'FAQ',
