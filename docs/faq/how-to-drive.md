@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Complete Guide to Driving in inZOI
+# inZOI How to Drive
 
 Discover the comprehensive driving mechanics in inZOI, featuring both automatic and manual driving options for enhanced gameplay experience.
 
