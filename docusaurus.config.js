@@ -82,6 +82,7 @@ const config = {
             label: 'Guide'
           },
           { to: '/blog', label: 'Blog', position: 'left' },
+          { to: '/mods', label: 'Mods', position: 'left' },
           { to: 'https://playinzoi.com', 
             label: 'inZOI Official Website', 
             position: 'right',
