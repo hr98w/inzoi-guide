@@ -34,10 +34,10 @@ const FeatureList = [
     link: '/docs/city'
   },
   {
-    title: 'FAQ',
+    title: 'FAQs',
     Svg: require('@site/static/img/svg/question.svg').default,
     description: 'Common questions about gameplay, technical issues and game mechanics',
-    link: '/docs/category/inzoi-download-faqs'
+    link: '/docs/category/faqs'
   }
 ]
 
@@ -66,6 +66,10 @@ export default function HomepageFeatures() {
   return (
     <section className='py-20 bg-gradient-to-b from-sky-50/50 to-transparent'>
       <div className='container max-w-7xl'>
+      <div class="mb-16 text-center">
+        <h2 class="mb-4 text-3xl font-bold">Navigation</h2>
+      </div>
+        {/* <h2 className='text-4xl font-bold text-center text-sky-900 mb-12'>Features</h2> */}
         <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8'>
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />

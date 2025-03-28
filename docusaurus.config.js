@@ -11,7 +11,7 @@ import { themes as prismThemes } from 'prism-react-renderer'
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'inZOI Guide',
-  tagline: 'Let\'s Enjoy inZOI',
+  tagline: 'Let\'s Enjoy inZOI: Creative Studio',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
