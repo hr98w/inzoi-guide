@@ -104,7 +104,7 @@ const config = {
             title: 'Important',
             items: [
               {
-                label: 'Guide',
+                label: 'inZOI Wiki',
                 to: '/docs/intro'
               },
               {
@@ -112,35 +112,43 @@ const config = {
                 to: 'docs/get-start/download'
               },
               {
-                label: 'inZOI ambitions',
-                to: 'docs/category/ambitions'
+                label: 'inZOI Jobs and Careers',
+                to: '/docs/jobs_and_careers/introduction'
               },
               {
-                label: 'inZOI system requirements',
-                to: '/blog/inzoi-system-requirements'
+                label: 'inZOI Mods',
+                to: '/mods'
+              },
+              {
+                label: 'inZOI Cheat Codes',
+                to: '/docs/faq/money-cheat'
               }
             ]
           },
 
-          // {
-          //   title: 'Community',
-          //   items: [
-          //     {
-          //       label: 'Stack Overflow',
-          //       href: 'https://stackoverflow.com/questions/tagged/docusaurus'
-          //     },
-          //     {
-          //       label: 'Discord',
-          //       href: 'https://discordapp.com/invite/docusaurus'
-          //     },
-          //     {
-          //       label: 'X',
-          //       href: 'https://x.com/docusaurus'
-          //     }
-          //   ]
-          // },
           {
-            title: 'More',
+            title: 'Character',
+            items: [
+              {
+                label: 'inZOI Traits',
+                href: '/docs/character/traits'
+              },
+              {
+                label: 'inZOI Karma',
+                href: '/docs/character/karma'
+              },
+              {
+                label: 'inZOI Age Stages',
+                href: '/docs/character/life-stage'
+              },
+              {
+                label: 'inZOI Ambitions',
+                href: '/docs/character/ambitions'
+              }
+            ]
+          },
+          {
+            title: 'Official inZOI Website',
             items: [
               {
                 label: 'inZOI Steam',
