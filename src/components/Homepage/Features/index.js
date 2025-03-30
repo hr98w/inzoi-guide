@@ -6,25 +6,25 @@ const FeatureList = [
   {
     title: 'Download Game',
     Svg: require('@site/static/img/svg/download.svg').default,
-    description: 'Download and install inZOI game client, system requirements and troubleshooting guides',
+    description: 'Download inZOI game, system requirements, troubleshooting guides, price and console info.',
     link: '/docs/get-start/download'
   },
   {
     title: 'Character',
     Svg: require('@site/static/img/svg/character.svg').default,
-    description: 'Comprehensive guide to character creation, traits, values, skills and life stages',
+    description: 'Comprehensive guide to character creation, karma, traits, values, skills and  aging stages',
     link: '/docs/category/character'
   },
   {
     title: 'Mods',
     Svg: require('@site/static/img/svg/mod.svg').default,
-    description: 'inZOI Mods contributed by the community',
+    description: 'inZOI Mods contributed by the community, e.g. nexus mods, remove shower blur mods, etc.',
     link: '/mods'
   },
   {
     title: 'Cheat Codes',
     Svg: require('@site/static/img/svg/dollar.svg').default,
-    description: 'inZOI cheat code collections for easy game',
+    description: 'inZOI cheat code collections for easy game, money cheat and inzoi trainer.',
     link: '/docs/faq/money-cheat'
   },
   {

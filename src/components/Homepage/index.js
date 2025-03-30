@@ -4,10 +4,9 @@ import Link from '@docusaurus/Link'
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext'
 
 import HomepageFeatures from './Features'
-import Countdown from './CountDown'
 import LatestNews from '../LatestNews'
-
 import { Button } from '../ui/button'
+import HomepageFAQ from './FAQ'
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext()
@@ -51,13 +50,13 @@ export default function Home({ homePageBlogMetadata, recentPosts }) {
   return (
     <Layout
       title={`Your Ultimate Resource for inZOI Gaming`}
-      description='Discover comprehensive guides, mods, tutorials, and resources for inZOI: Creative Studio. Join our community for the latest tips, strategies.'
+      description='Discover comprehensive guides, mods, tutorials, wiki and resources for inZOI: Creative Studio. Join our community for the latest tips, strategies.'
     >
       <HomepageHeader />
       <main>
-        {/* <Countdown /> */}
         <HomepageFeatures />
         <LatestNews recentPosts={recentPosts} homePageBlogMetadata={homePageBlogMetadata} />
+        <HomepageFAQ />
       </main>
     </Layout>
   )
