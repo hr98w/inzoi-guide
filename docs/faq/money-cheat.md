@@ -2,11 +2,11 @@
 sidebar_position: 7
 ---
 
-# inZOI Money Cheat
+# inZOI Money Cheat Code
 
 Learn how to instantly boost your Meow balance in inZOI using the official money cheat code. This developer-approved method helps players overcome early-game financial challenges.
 
-## Using the Money Cheat
+## Using the Money Cheat Code
 ![money cheat](/doc/faq/money-cheat.png)
 ### Quick Steps
 1. Open game interface
