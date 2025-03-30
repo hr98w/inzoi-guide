@@ -7,8 +7,15 @@ const ModList = [
     author: '',
     category: 'Collections',
     description: 'Large amount of inZOI mod collections',
-    link: 'https://www.nexusmods.com/games/inzoi',
+    link: '/mods/nexus-mods',
     isHighlight: true
+  },
+  {
+    title: 'Remove Shower Blur',
+    author: 'FrancisLouis',
+    category: 'Character',
+    description: 'Removes blur from the shower, toilet, and any other place it might be used.',
+    link: '/mods/remove-shower-blur',
   },
   {
     title: 'InZOI Mod Enabler',
@@ -16,13 +23,6 @@ const ModList = [
     category: 'General',
     description: 'Allows InZOI to load unsigned mods through the ~mods folder.',
     link: 'https://www.nexusmods.com/inzoi/mods/1',
-  },
-  {
-    title: 'Remove Shower Blur',
-    author: 'FrancisLouis',
-    category: 'Character',
-    description: 'Removes blur from the shower, toilet, and any other place it might be used.',
-    link: 'https://www.nexusmods.com/inzoi/mods/13',
   },
   {
     title: 'Higher Quality Skin and Faces',
